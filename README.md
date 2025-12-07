@@ -1,5 +1,6 @@
 # DHG-LGB: Disease-Hypergraph Integrated with LightGBM
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17848044.svg)](https://doi.org/10.5281/zenodo.17848044)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
