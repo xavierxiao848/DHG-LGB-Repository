@@ -1,0 +1,5 @@
+Disease,Total_Predictions,Confirmed,Validation_Rate,Representative_Metabolites
+Obesity,10,10,100%,"L-Alanine, gamma-Aminobutyric acid, Taurine, L-Leucine, L-Lysine"
+Schizophrenia,10,10,100%,"Hypoxanthine, Succinic acid, Adenine, L-Proline, Ethanol"
+Crohns_Disease,10,9,90%,"Homovanillic acid, Sarcosine, L-Aspartic acid, DHEAS, Fumaric acid"
+Overall,30,29,96.7%,Literature validation demonstrates high precision in predictions

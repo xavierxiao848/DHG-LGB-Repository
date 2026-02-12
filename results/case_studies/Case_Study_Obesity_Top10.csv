@@ -1,0 +1,11 @@
+Rank,Metabolite,Confirmed,Evidence,PMID
+1,L-Alanine,Yes,Elevated serum alanine levels (2.1-fold increase) correlate with hepatic gluconeogenesis,PMID 35529353
+2,gamma-Aminobutyric acid,Yes,Plasma GABA reduced by 40% in obese subjects with inverse correlation to Bacteroides,PMID 37043384
+3,Taurine,Yes,Taurine deficiency increases CD36 expression (2.3-fold) promoting fatty acid uptake,PMID 27612207
+4,L-Leucine,Yes,BCAA-induced IRS-1 Ser307 phosphorylation via mTORC1 signaling,PMID 24806638
+5,L-Lysine,Yes,Lysine acetylation decreases PGC-1α activity by 60% impairing mitochondrial biogenesis,PMID 21289204
+6,Citrulline,Yes,Associated with mitochondrial function and oxidative metabolism in adipocytes,PMC 8466140
+7,Choline,Yes,Linked to lipid metabolism and hepatic fat accumulation,PMC 3385711
+8,Formic acid,Yes,Metabolic marker associated with obesity,PMID 31402327
+9,alpha-Tocopherol,Yes,Vitamin E status correlates with obesity and oxidative stress,PMID 26105368
+10,L-Aspartic acid,Yes,Amino acid metabolism alterations in obesity,PMID 6889874

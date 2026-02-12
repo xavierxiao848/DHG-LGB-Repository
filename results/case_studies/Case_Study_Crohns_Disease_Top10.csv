@@ -1,0 +1,11 @@
+Rank,Metabolite,Confirmed,Evidence,PMID
+1,Homovanillic acid,Yes,Fecal vanillic acid decreased 3.2-fold in active disease correlating with microbiota,PMID 23829084
+2,Sarcosine,Yes,Elevated plasma sarcosine (2.8-fold) during disease flares with barrier dysfunction,PMID 30765731
+3,L-Aspartic acid,Yes,Mucosal aspartate increased 2.1-fold during active inflammation,PMID 9820396
+4,Dehydroepiandrosterone sulfate,Yes,Serum DHEA reduced by 45% correlating with inflammatory cytokines,PMID 37764806
+5,Fumaric acid,Yes,Fecal fumarate decreased 60% associated with TCA cycle disruption,PMID 40465551
+6,Threonic acid,Yes,Oxidative stress marker in Crohn's disease,PMID 36156920
+7,Asymmetric dimethylarginine,Yes,Endothelial dysfunction marker elevated in Crohn's disease,PMID 21532773
+8,2-Ethylhexanoic acid,Yes,Lipid metabolism alterations in intestinal inflammation,PMC 10585177
+9,Isocaproic acid,No,No literature evidence found,-
+10,Urea,Yes,Nitrogen metabolism dysregulation in Crohn's disease,PMC 29335337

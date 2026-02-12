@@ -1,11 +1,13 @@
 # DHG-LGB: Disease-Hypergraph Integrated with LightGBM
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17848044.svg)](https://doi.org/10.5281/zenodo.17848044)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17848043.svg)](https://doi.org/10.5281/zenodo.17848043)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 
-**Official implementation of "DHG-LGB: Predicting Metabolite-Disease Associations via Disease Hypergraph and LightGBM"**
+**Official implementation of "Identifying Metabolite-Disease Associations via Messaging in Hypergraphs"**
+
+> **Data & Results Archive:** The complete archive (442 MB) including all data, pre-trained embeddings, and experimental results is permanently available at **[Zenodo (DOI: 10.5281/zenodo.17848043)](https://doi.org/10.5281/zenodo.17848043)**. Two large files exceeding GitHub's 100 MB limit (`GO_similarity_12524x12524.txt` 150 MB and `HGNN_node_embeddings_19620x500.txt` 178 MB) must be downloaded from the Zenodo archive.
 
 ## Overview
 
@@ -34,8 +36,8 @@ DHG-LGB is a novel computational framework for predicting metabolite-disease ass
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DHG-LGB.git
-cd DHG-LGB
+git clone https://github.com/xavierxiao848/DHG-LGB-Repository.git
+cd DHG-LGB-Repository
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -251,12 +253,11 @@ cross_validation:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{yourname2024dhglgb,
-  title={DHG-LGB: Predicting Metabolite-Disease Associations via Disease Hypergraph and LightGBM},
-  author={Your Name and Coauthors},
-  journal={Journal Name},
-  year={2024},
-  doi={10.xxxx/xxxxx}
+@article{xiao2025dhglgb,
+  title={Identifying Metabolite-Disease Associations via Messaging in Hypergraphs},
+  author={Xiao, Fuheng and Ran, Yihao and Li, Zhanchao},
+  journal={Metabolites},
+  year={2025}
 }
 ```
 
@@ -270,9 +271,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaborations, please contact:
-- **Your Name**: your.email@institution.edu
-- **Lab Website**: https://yourlab.institution.edu
+For questions or collaborations, please open an issue on this repository or contact the corresponding author:
+- **Li Zhanchao**: zhanchao8052@gdpu.edu.cn
 
 ---
 
@@ -285,6 +285,12 @@ For questions or collaborations, please contact:
 ---
 
 ## Changelog
+
+### Version 2.0.0 (2025-01)
+- Added complete data files (raw, processed, embeddings)
+- Added all experimental results (cross-validation, case studies, baseline comparisons)
+- Added Zenodo archive with DOI for permanent availability
+- Added comprehensive README documentation for each data directory
 
 ### Version 1.0.0 (2024-12-07)
 - Initial public release

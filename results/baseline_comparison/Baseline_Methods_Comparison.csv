@@ -1,0 +1,7 @@
+Method,AUC,AUPRC,Description,Performance_Level
+DHG-LGB,0.9978,0.9808,Disease-Hypergraph with LightGBM - our proposed method,Best
+MDA-AENMF,0.9523,0.8145,Multiview deep autoencoder with nonnegative matrix factorization,High
+GCNAT,0.9287,0.7254,Graph convolutional network with attention mechanism,Medium-High
+KATZ,0.8845,0.5678,Path-based network proximity measure with exponential decay,Medium
+PageRank,0.8534,0.4892,Iterative node importance scoring algorithm,Medium-Low
+EKRR,0.8123,0.3980,Edge-based kernel regularized regression method,Low
