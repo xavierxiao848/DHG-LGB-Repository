@@ -214,7 +214,7 @@ If you use this data in your research, please cite:
   author={Xiao, F. and Ran, Y. and Li, Z.},
   journal={Metabolites},
   year={2025},
-  doi={10.XXXX/metabolites-XXXXXXX}
+  doi={10.5281/zenodo.17848043}
 }
 ```
 
@@ -254,9 +254,9 @@ To reproduce the main experimental results:
 ## Contact
 
 For questions about this data, please contact:
-- Corresponding author: [Email from manuscript]
+- Corresponding author: zhanchao8052@gdpu.edu.cn
 - GitHub repository: https://github.com/xavierxiao848/DHG-LGB-Repository
-- Zenodo DOI: https://doi.org/10.5281/zenodo.XXXXXXX
+- Zenodo DOI: https://doi.org/10.5281/zenodo.17848043
 
 ## License
 
@@ -264,7 +264,7 @@ This data is released under the MIT License, matching the code repository licens
 
 ## Version History
 
-- **v2.0.0** (2025-01-XX): Complete dataset with all experimental results, case studies, and baseline comparisons
+- **v2.0.0** (2025-01-10): Complete dataset with all experimental results, case studies, and baseline comparisons
 - **v1.0.0** (2024-12-07): Initial release (code only, incomplete)
 
 ---
